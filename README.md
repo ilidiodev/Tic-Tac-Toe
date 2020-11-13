@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-Simpe tic tac toe game 
+Simple tic tac toe game 
+All symbols created using CSS3
